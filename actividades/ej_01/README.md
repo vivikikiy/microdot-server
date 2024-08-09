@@ -1,4 +1,4 @@
-# ej01
+# ej_01
 
 ## Consigna
 
