@@ -3,5 +3,5 @@ Repositorio con información y ejercicios sobre implementaciones de servidores e
 
 ## docs
 
-- [Documentación de Micropython](https://microdot.readthedocs.io/en/latest/)
+- [Documentación de microdot](https://microdot.readthedocs.io/en/latest/)
 - [Documentación del kit](https://odoo.fanlab.com.ar/web/content/2432)
