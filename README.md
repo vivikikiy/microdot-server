@@ -5,6 +5,7 @@ Repositorio con información y ejercicios sobre implementaciones de servidores e
 
 - [Documentación de microdot](https://microdot.readthedocs.io/en/latest/)
 - [Documentación del kit](https://odoo.fanlab.com.ar/web/content/2432)
+- [Referencia rápida de Micropython para ESP32](https://docs.micropython.org/en/latest/esp32/quickref.html)
 
 ## boot.py
 
