@@ -53,6 +53,10 @@ connect_to("Cooperadora Alumnos", "")
 
 3. Una vez implementada la función, testear que funciona llamando en el `boot.py` a la función como `print(connect_to("Cooperadora Alumnos", ""))`. El resultado debería ser la dirección de IP de nuestro microcontrolador.
 
+### Entrega de actividad
+
+Subir en el repositorio forkeado el archivo de `boot.py` en el que se resolvió esta consigna dentro del directorio `ej_00`.
+
 ### Uso de pantalla OLED
 
 1. Grabar la biblioteca `ssd1306.py` del siguiente [repositorio](https://github.com/stlehmann/micropython-ssd1306) en el sistema de archivos del ESP32.
