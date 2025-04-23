@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    color: #000080;
+}
+
+/* Estilos para el header */
+header {
+    background-color: #176fc7;
+    padding: 20px 0;
+    text-align: center;
+}
+
+img{
+    align:center;
+    width: 1000px;
+    heigth: 600px;
+    }
+
+/* Estilos específicos del h1 dentro del header */
+header h1 {
+    margin: 0;
+    color: white;
+    font-size: 2.5rem;
+}
+dev{
+    text-align: center;
+    aling-items: center;
+}
+
+/* Área principal */
+main {
+    min-height: 70vh;
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #176fc7;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 5px 0;
+}
